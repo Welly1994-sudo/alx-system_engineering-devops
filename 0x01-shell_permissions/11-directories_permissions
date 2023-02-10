@@ -1,0 +1,2 @@
+#!/bin/bash
+cmhod -R ugo+X
